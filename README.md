@@ -24,3 +24,6 @@ This project implements a wearable glove interface for controller-free interacti
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/rcarrz04/glove-vr-controller.git
+
+Note:
+On Unity, make sure to open SampleScene!
