@@ -5,7 +5,7 @@ This project implements a wearable glove interface for controller-free interacti
 ## Features
 
 - Real-time gesture recognition (Open, Select, SwipeR)
-- Quaternion-based orientation tracking using IMU
+- Quaternion-based HMD orientation tracking using IMU
 - Wireless ESP-NOW communication between glove and headset
 - Unity integration for interacting with a photo gallery, target game, and weather panel
 - No cameras, no hand-held controllers
