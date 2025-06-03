@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{AE73EBF0-0103-0295-15B6-F157C9A75018}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ReadUSB.cs" Line="67" Column="10" />
+      <File FileName="Assets/Scripts/WeatherDropdown.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GalleryManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TargetInteractable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FistInteractable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TargetSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TargetBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpawnerToggle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ee267_unitystarter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Cardboard" expanded="True">
+                <Node name="Distortion" expanded="True" />
+                <Node name="Editor" expanded="True" />
+                <Node name="Scripts" expanded="True">
+                  <Node name="Audio" expanded="True" />
+                  <Node name="UI" expanded="True" />
+                  <Node name="VRDevices" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+              <Node name="TextMesh Pro" expanded="True">
+                <Node name="Resources" expanded="True">
+                  <Node name="Shaders" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cbafdda3-6651-4526-bbed-261131653a19" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
